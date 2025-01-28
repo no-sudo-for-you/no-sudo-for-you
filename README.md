@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nscherger
 - 👀 I’m interested in cybersecurity and scripting (with python and bash currently)
-- 🌱 I’m currently learning Python and Bash scripting
+- 🌱 I’m currently learning Python and Bash scripting and different thigns related to AI/LLM like building AI agents, and creating automation and operators using LLM's
 - 💞️ I’m looking to collaborate on anything related to cyber security or network security
 - 📫 How to reach me: By email - nscherger@gmail.com
 - ⚡ Fun fact: I used be in the field of biology doing research on ecology and entomology, including data analysis and novel methodology. I'm interested in BJJ, disc golf, and mountain biking.
